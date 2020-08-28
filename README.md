@@ -7,6 +7,11 @@ A twitter bot that scrapes mlb.com news headlines and tweets the headlines and t
 1. Create a twitter account if you don't already have one
 2. Create an app on developer.twitter.com to access your own API keys
 3. Clone this repository
+
+```shell
+git clone https://github.com/sambluestone/MLBHeadlinesBot.git
+```
+
 4. Create a file in the root directory called config.py and format it in the following way:
    <pre>
    cKey = "xxxxxxxxxxxxxxxxxxxxxxxxx"
@@ -16,9 +21,6 @@ A twitter bot that scrapes mlb.com news headlines and tweets the headlines and t
    <pre>
 Note: make sure that each key is surrounded by double quotes and the variables are named appropriately
 
-```shell
-git clone https://github.com/sambluestone/MLBHeadlinesBot.git
-```
 
 5. Install necessary packages
 
