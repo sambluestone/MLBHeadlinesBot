@@ -1,6 +1,6 @@
 # MLBHeadlinesBot
 
-A twitter bot that mlb.com news headlines and tweets the headlines and their links in a twitter thread. Follow the bot @mlbheadlinesbot or try it out for yourself with your own API keys!
+A twitter bot that scrapes mlb.com news headlines and tweets the headlines and their links in a twitter thread. Follow the bot @mlbheadlinesbot or try it out for yourself with your own API keys!
 
 ## Set up
 
